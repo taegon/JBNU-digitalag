@@ -2,8 +2,8 @@
 
 ## 2021년 홈페이지
 
-* https://ryukyoungoh560.github.io
-* https://ethanseok.github.io
+* [https://ryukyoungoh560.github.io](https://ryukyoungoh560.github.io)
+* [https://ethanseok.github.io](https://ethanseok.github.io)
 * https://ffe4el.github.io/
 * https://jonghyeonnim.github.io/profile (X)
 * https://jang-heewon.github.io/github (X)
