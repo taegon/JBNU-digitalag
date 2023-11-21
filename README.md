@@ -1,19 +1,41 @@
-# JBNU-digitalag-2022
+# 전북대학교 디지털농업개론
 
-## 2021년 홈페이지
+## 2022년 수강생 홈페이지
 
-* [https://ryukyoungoh560.github.io](https://ryukyoungoh560.github.io)
+* [https://ppigguritta.github.io/hompage/개인%20홈페이지.html](https://ppigguritta.github.io/hompage/개인%20홈페이지.html)
+* [https://j28s.github.io/profile/](https://j28s.github.io/profile/)
+* [https://danuni29.github.io/Profile/](https://danuni29.github.io/Profile/)
+* [https://aceyang00.github.io/aceyang/](https://aceyang00.github.io/aceyang/)
+* [https://yuuuujeong.github.io/file/](https://yuuuujeong.github.io/file/)
+* [https://hsj02.github.io/HSJ/](https://hsj02.github.io/HSJ/)
+* [https://mj4247.github.io/profile/index.html](https://mj4247.github.io/profile/index.html)
+* [https://doyoung03.github.io/profile/](https://doyoung03.github.io/profile/)
+* [https://neuldy.github.io/DY/](https://neuldy.github.io/DY/) (X)
+* [https://maljaehyeok.github.io/Maljh2/](https://maljaehyeok.github.io/Maljh2/)
+* [https://onejn.github.io/ryuxjun/](https://onejn.github.io/ryuxjun/) (X)
+* [https://sprout03.github.io/laboratory/](https://sprout03.github.io/laboratory/)
+* [https://yewon0489.github.io/-/index.html](https://yewon0489.github.io/-/index.html)
+* [https://hyusicul.github.io/profile/](https://hyusicul.github.io/profile/)
+* [https://song-kyeong-chan.github.io/222/](https://song-kyeong-chan.github.io/222/)
+* [https://yunkunyoung.github.io/profile](https://yunkunyoung.github.io/profile)
+* [https://gildolee.github.io/gildo/](https://gildolee.github.io/gildo/) (X)
+* [https://lshhk99.github.io/aaaa/](https://lshhk99.github.io/aaaa/)
+* [https://sjo27136.github.io/github.io/](https://sjo27136.github.io/github.io/)
+
+## 2021년 수강생 홈페이지
+
 * [https://ethanseok.github.io](https://ethanseok.github.io)
-* https://ffe4el.github.io/
-* https://jonghyeonnim.github.io/profile (X)
-* https://jang-heewon.github.io/github (X)
-* https://kltpls.github.io/kltpls1.github.io-/
-* https://riverallzero.github.io/profile/index.html
-* https://jiyong-e.github.io/
-* https://hhs0121.github.io/profile/
-* https://jbnusfleehk.github.io/profile/
-* https://tonsos.github.io/profile/
-* https://kangeuihong.github.io/
-* https://jungjae0.github.io/profile/
-* https://hyun425.github.io/
-* https://googleplexs.github.io/profile/
+* [https://ffe4el.github.io/](https://ffe4el.github.io/)
+* [https://ryukyoungoh560.github.io](https://ryukyoungoh560.github.io)
+* [https://jonghyeonnim.github.io/profile](https://jonghyeonnim.github.io/profile) (X)
+* [https://jang-heewon.github.io/github](https://jang-heewon.github.io/github) (X)
+* [https://kltpls.github.io/kltpls1.github.io-/](https://kltpls.github.io/kltpls1.github.io-/)
+* [https://riverallzero.github.io/profile/index.html](https://riverallzero.github.io/profile/index.html) (X)
+* [https://jiyong-e.github.io/](https://jiyong-e.github.io/) (X)
+* [https://hhs0121.github.io/profile/](https://hhs0121.github.io/profile/)
+* [https://jbnusfleehk.github.io/profile/](https://jbnusfleehk.github.io/profile/)
+* [https://tonsos.github.io/profile/](https://tonsos.github.io/profile/)
+* [https://kangeuihong.github.io/](https://kangeuihong.github.io/)
+* [https://jungjae0.github.io/profile/](https://jungjae0.github.io/profile/)
+* [https://hyun425.github.io/](https://hyun425.github.io/) (X)
+* [https://googleplexs.github.io/profile/](https://googleplexs.github.io/profile/)
