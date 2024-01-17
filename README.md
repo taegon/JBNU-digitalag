@@ -21,7 +21,7 @@
 * https://shinjunseo.github.io/j_west_21_do/index.html
 * https://yanghuiwon22.github.io
 * https://taeh2004.github.io/taeh/
-* https:/gayeonwoo.github.io/cookie/
+* https://gayeonwoo.github.io/cookie/
 * https://nayeong2da.github.io/profile/
 * https://wooooyeeun.github.io/profile/
 * https://jbnusflht.github.io/Profile/
