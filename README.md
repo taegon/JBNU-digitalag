@@ -1,5 +1,9 @@
 # 전북대학교 디지털농업개론
 
+## 2025년 수강생 홈페이지
+
+* 화이팅!!
+
 ## 2024년 수강생 홈페이지
 
 * [https://kimjj917.github.io/report/](https://kimjj917.github.io/report/)
