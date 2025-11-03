@@ -1,5 +1,36 @@
 # 전북대학교 디지털농업개론
 
+## 2024년 수강생 홈페이지
+
+* https://kimjj917.github.io/report/
+* https://yonguk2.github.io/homepage/
+* https://yujin-04.github.io/profile/
+* https://ljw050103.github.io/homepage/
+* https://gaeuni04.github.io/homepage/
+* https://kangyeonwoo0921.github.io/yeonwoo.web/
+* https://jijjihun.github.io/profile__/
+* https://kimdongwi.github.io/profile/
+* https://mo030ng.github.io/mo030ng/
+* https://minsfarm.github.io/homepage/
+* https://parksh8009.github.io/webpage/
+* https://jeongyeon25.github.io/JYP/
+* https://pcy6900.github.io/ChaeYoon-s_world/
+* https://eunming90.github.io/about/
+* https://sseongstar.github.io/profile_/
+* https://wlsrjs.github.io/wlsrjstjd/
+* https://yujung412.github.io/webpage/
+* https://hyeonjun828.github.io/hj828/
+* https://chanheeee-oh.github.io/homepagechanhee/
+* https://2kyunghwan.github.io/homepage/
+* https://mintae05.github.io/-s-PROFILE/
+* https://oneunsu.github.io/.homepage/
+* https://hyunjung14.github.io/homepage
+* https://yr-u605.github.io/myhomepage/
+* https://smin0816.github.io/homehage/
+* https://chadoohan.github.io/homepage/
+* https://hagunuk.github.io/Self-Introducing/
+* https://hwangjiwoo14.github.io/kimberlyweb/
+
 ## 2023년 수강생 홈페이지
 
 * https://oosim.github.io/profile/
